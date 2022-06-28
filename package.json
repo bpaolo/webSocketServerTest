@@ -1,0 +1,24 @@
+{
+  "name": "websocketserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "bruno paolo",
+  "license": "ISC",
+  "dependencies": {
+    "current-processes": "^0.2.1",
+    "http": "^0.0.1-security",
+    "loadsh": "^0.0.4",
+    "lodash": "^4.17.21",
+    "node-os": "^0.0.5",
+    "node-os-utils": "^1.3.7",
+    "process": "^0.11.10",
+    "request": "^2.88.2",
+    "websocket": "^1.0.34"
+  },
+  "keywords": [],
+  "description": ""
+}
